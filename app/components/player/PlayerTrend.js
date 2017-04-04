@@ -150,7 +150,7 @@ const styles = StyleSheet.create({
     fontWeight: '200'
   },
   sumAvgLabel: {
-    color: '909CAF',
+    color: '#909CAF',
     marginLeft: 2,
     position: 'relative',
     top: -3
